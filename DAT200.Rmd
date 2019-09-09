@@ -1,0 +1,17 @@
+---
+title: "DAT 200"
+author: "Rissler"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 3
+
+## Monday
+
+- Assign Seek and Find Activity
+
