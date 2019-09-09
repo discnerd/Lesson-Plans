@@ -1,0 +1,21 @@
+---
+title: "CSC 115"
+author: "Rissler"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 3
+
+## Monday
+
+- Integer Arithmetic
+  * Warnings!
+  * Explicit Multiplication
+  * Integer Division
+  * Order of Precedence
+

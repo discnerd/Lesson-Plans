@@ -1,0 +1,17 @@
+---
+title: "MAT 117"
+author: "Rissler"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 3
+
+## Monday
+
+- Discuss what a line is.
+
