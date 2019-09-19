@@ -1,0 +1,33 @@
+---
+title: "Quiz sol"
+author: "Rissler"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(lubridate)
+```
+
+## Stuff
+
+
+```{r}
+
+bd <- mdy("6-28-2000")
+
+dayAlive <- dmy("16-09-2019") - bd; dayAlive
+
+.12*75+4
+
+weightoz <-.12*as.numeric(dayAlive) + 4; weightoz
+
+weightLb <- weightoz/16; weightLb
+
+weightTon <- weightLb/2000; weightTon
+
+
+
+```
